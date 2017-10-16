@@ -48,7 +48,7 @@
                         <a href="#">Services</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="_form/contact/index.html">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -106,6 +106,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
+                     <md ng-include="'2017-10-10-my-experience-at-bloc.md'"></md>
                     <h2>How to Enjoy Eating Bugs <small>3/6/2015</small></h2>
                     <p> I eat bugs for a living...yum!, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.scing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                 </div>
@@ -134,6 +135,11 @@
         </footer>
     </div>
     <!-- /.container -->
+     <script src="libraries/angular_markdown/marked.js"></script>
+    <script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular.min.js"></script>
+    <script src="libraries/angular_markdown/angular-md.js"></script>
+    <script src="libraries/angular_markdown/main.js"></script>
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
