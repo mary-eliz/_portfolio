@@ -5,7 +5,7 @@ title: How I Started Coding
 #My journey into C0DING
 
 
-Honestly, I can't remember exactly what it was that encourged me to start programming. I have taken computer science courses in both high school and college. My high school wa a magnet school, and our school was geared toward engineering (and computer science), so computer science was a requirement when we were sophomores, but I can't remember what language we learned... it mau have been Javascript. All I know was that my teachers name was Mr. Wood. He was awesome!
+Honestly, I can't remember exactly what it was that encourged me to start programming. I have taken computer science courses in both high school and college. My high school was a magnet school, and our school was geared toward engineering (and computer science), so computer science was a requirement when we were sophomores, but I can't remember what language we learned... it may have been Javascript. All I know was that my teachers name was Mr. Wood. He was awesome!
 
 Then in college my computer science class was Intro to Python. It wasn't hard but it also wasn't easy, I did OK in the class.
 All I know is that I've had exposure to programming here and there.
