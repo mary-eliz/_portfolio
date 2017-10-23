@@ -42,3 +42,9 @@ row #mainheader {
 .subheader{
 	font-size: 30px;
 }
+
+
+.main .sum,
+.main, .info{
+text-align: center;
+}
